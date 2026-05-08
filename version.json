@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "5.0.0",
   "url": "https://github.com/boyboyboy321/tach_pdf/releases/download/tach_pdf/Tach_PDF.exe",
-  "changelog": "tách theo biên mục"
+  "changelog": "Fix lỗi không tìm thấy hs. Tìm kiếm dựa vào trường 'Trang số' ở bất cứ cột nào \n Bỏ qua hồ sơ có số trang chứa chữ ví dụ 10a"
 }
